@@ -9,4 +9,4 @@ namePrefix: testing-
 
 images:
   - name: codekagei/quizzler
-    newTag: $CI_TAG
+    newTag: 0.40
